@@ -21,7 +21,3 @@ The code implements simulations and measurements related to **random (squarefree
 ## Requirements
 
 - **Macaulay2** (version 1.19 or newer recommended)
-
-To check your version:
-```m2
-version
